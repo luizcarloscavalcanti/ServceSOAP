@@ -1,2 +1,2 @@
 # ServiceSOAP
-Simples Repositório SOAP
+Simples WebService SOAP
